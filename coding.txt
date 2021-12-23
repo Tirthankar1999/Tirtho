@@ -1,2 +1,4 @@
 Welcome to coding world of Tirtho
 python
+functions
+methods
